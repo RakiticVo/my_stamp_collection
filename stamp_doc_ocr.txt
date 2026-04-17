@@ -1,0 +1,377 @@
+
+===== PAGE 1 =====
+DIGITALPHILATELY COLLECTION
+POSTAGE S.OO
+VINTAGEHERITAGEDIOITALFUTUBE
+Unique Stamp Creator
+Thiet ke Ul/UX & Kien truc Ung dung Flutter cho Ky nguyen So hoa
+TranQuangMinhTruongnhomKientruc Giai phap
+R NotebooklM
+
+
+===== PAGE 2 =====
+Boi canh: Su Giao thoa Gitra Thurc va Ao
+Metadoo cngeoekase ctdoal buccy
+H80660068A08A006T9878S58520801
+1S8880086S0790SS9
+Liniaue ldentifier hash Gwading
+NFT31291201
+Price
+C1Y data
+0.0.0004YC
+$ 28.10
+Tieuchuan UPU2026&WNS2.0
+PNOT
+Nganh buru chinh toan cau chuyen djch
+sang he thong so hoa tichhgp voi Al
+nhan dien hinh anh,xac thurc co so do
+lieuhon120.000contem
+Bao chung Kep (Digital Twins)
+NFT va Blockchaindinh nghia lai khai
+Nhu cau Nguroi dung
+niem quyen so hihu-kat hop tinh
+The he Millennials/Gen Z mong muon
+hien hiru cua tem vat ly va su vinh ciru
+cac cmg dung quan ly bo suru tap khong
+cua blockchain.
+chi dimg d viec luu tri, ma con la khong
+gian che tac va ca nhan hoa.
+SNotebookLM
+
+
+===== PAGE 3 =====
+Triet ly UX 2026:
+The Curator's Experience
+Chuyen doi Che do Murot ma
+Khong co do tre hay diem nghen khi nguoi
+dung chuyen tirviecKhampha (che do
+xem)sang Chetac (che dotao moi).
+Giao dien Tao sinh
+Giao dien tur dong thay doi mau sac va boi
+canh dua tren do hiem, quoc gia hoac dai
+dai mau cua con tem dang duroc hien thi
+High-Contrast Fallbacks
+Dambaokhanangtruy cap (accessibility)
+bang he thong turong phan cao,dac biet
+khiap dung cac lopkinh mo.
+Si NotebookLM
+
+
+===== PAGE 4 =====
+Kien truc Cot loi: He thong 3-Tab
+HOME
+CAPTURE
+COLLECTION
+(Khampha)
+(Che tac)
+(Kho luru tru)
+Bang dieu khien, xu
+NhandienAl,OpenCv,
+Album ca nhan,
+huong thi trurong
+may anh ky thuat so.
+Digital Twins,bo loc
+bantinUPU
+HOME
+CAPTURE
+COLLECTION
+Cong nghe loi:
+Cong nghe loi:
+Cong nghe loi:
+ListView
+perforated_border
+GridView &
+&CustomPainter
+In-MemoryFiltering
+SNotebookLM
+
+
+===== PAGE 5 =====
+TAB1-HOME:Bangdieukhien&Khampha
+9:41
+Home
+PersonalizedFeed
+Dong thoi gian hien thi tem mdi
+phat hanh va cac thong tin tur WNS
+New Releases:2024
+WNS Update: UPU
+LNY Stamps
+1oth Anniversary
+High-reselution
+High-resolution
+Trending Collections
+See all
+Market Trends
+Cac bo suu tap dang hot, hien thi
+duoi dang the cuon ngang.
+British Empire
+Space
+Space Expl
+Classies
+Exploratlon Series
+Series
+UPU News
+Global Postal Forum Highlights
+UPUNewS
+Giobal Postal Forum Highlights
+Htotcaroarase Na whstoroeona v Aho..
+Tin turc nganh buu chinh duroc
+New Philatelic initiatives
+New Philatellc initiatives repesrtien
+tich hop gon gang qua APl.
+CAPTURE
+HOME
+COLLECTION
+Si NotebookLM
+
+
+===== PAGE 6 =====
+Tech Deep Dive:Toi uru hoa Ul voi ListView
+Code-to-ul
+ListView.builder
+Giai phap lazy loading cho hieu suat
+Home
+ListView.builder(
+murotmaotansoquet6ofpskhi
+itemCount:posts.length,
+render bang tin keo dai vo tan tur APl.
+itemBuilder:(context,index)
+return PostCard(post:posts[index])
+ListView.separated
+ListView.separated(
+separatorBuilder:(context,index)=>Divider(),
+Phan tach cac dai noi dung ngang
+itemCount:collections.length
+mot cach sach se,tu dong chen
+itemBuilder:(context, index)(
+return CollectionTile(collection:collections[indexl):
+khoang trang hoac Divider ma khong
+lam roi logic code.
+Britich Empire
+Spsce
+Sosce Ekp
+Sapforation Sories
+Classlos
+Series
+Container
+scrollDirection:
+height:200
+child:ListView(
+Axis.horizontal
+scrollDirection:Axis.horizontal
+children:trendingltems.map((item)=>Trendingl.toList()
+Ket hop linh hoat giura cuon doc va
+cuon ngang de tao cam giac
+Dashboard hien dai, toi uru khong
+DMPTSINE
+HOR
+COLLEONON
+gian man hinh nho.
+SNotebookLM
+
+
+===== PAGE 7 =====
+TAB2-CAPTURE:OngkinhKythuat so
+Nhan dien Hien trang (WNS 2.0 Integration)
+Sir dung Al de nhan dang mau rang cua, loai
+giay,quetkhopvoi120.000+contemtrongco
+so du lieu.
+ChetacTemDocban(Unique Creator)
+SCANNING..
+Cong cu Customized Postage cho phep nguroi
+dung bien anh chup ca nhan thanh tem thu voi
+WNSDATABASE MATCHING:STY
+vien buu chinh chuan murc.
+UI Focus
+Giao dien toi gian, don toan bo sur tap trung vao
+luongvideo camerava cacphanhoixucgiackhi
+bat duroccanhtem.
+Si NotebookLM
+
+
+===== PAGE 8 =====
+Tech Deep Dive:Nghe thuat Chetacvoi perforated_border
+radius
+spacing
+WavyBorder
+ZigZagBorder
+BumpBorder
+Tao durongvien luron song
+Mo phong vien xenhanh,
+Tao hieu urng duc lo (punch-hole)
+mem mai truyen thong.
+goccanh sacben
+- ky thuat in tem chuan nhat.
+Kiem soat chi tiet radius (do cong) va spacing (khoang cach giura cac rang cura)
+thao tac trurc tiep len Canvas, tao vien ao nhung mang lai cam giac vat ly.
+ NotebookLM
+
+
+===== PAGE 9 =====
+Toan hoc dang sau Ul: Xi ly Hinh anh & CustomPainter
+POSTPOSTAGE
+POSTPOSTAGE
+DELEARS
+IWO DELLARS
+Anh chup tho
+Render ket qua cuoi cung
+EdgeDetection
+Chuyen doi sang
+Toan tur Sobel
+Toi uru hieu suat GPU
+(G = V(Gx32 + Gy^2))
+CustomPainter
+Apdung nguyen ly OpencV de
+Sir dung ket qua toan hoc de
+Surdung shader GLSL de dam
+ve cac durong Path (durong dan
+tinh toan do doc (gradient) do
+bao qua trinh phat hien canh
+sang,phat hien chinh xac ranh
+vector)phurctaptrong Flutter.
+va cat anh (clipping)dien ra
+gioi cua caclo rang cua tren
+realtime ngaytren camera.
+anh thuc te.
+ NotebookLM
+
+
+===== PAGE 10 =====
+TAB 3 - COLLECTION: Kho luu trU Ca nhan
+Vault
+Search
+TheVaultUX
+Filter X
+Fliters
+Giaodienalbumphanhoinhanh,sap
+xepbosuutaptheoquocgia,namphat
+hanh, hoac trang thai vat ly/NFT.
+Trai nghiemVuot/Cham
+Chamhailan (double-tap)dephongto
+xem chitiet be mattem,tichhop cac bo loc
+chuyen sau tructiep tren man hinh.
+My Vauit
+RecentFinds
+NFT$
+The Digital
+Philatelist
+R NotebookLM
+
+
+===== PAGE 11 =====
+Tech Deep Dive: Sap xep Album voi GridView
+GridView.builder
+GridView.extent
+Network Images &Caching
+Trai tim cua Vault. Load luroi (lazy
+Str dung maxCrossAxisExtentde Flutter
+Toi uu hoa viec taianhtem tir
+loading)cacthuvienanhlon,chikhoi
+tudong tinhtoan so cot phu hgp voi
+serverkethopcachenoibo
+tao cac widget hien thi trong man
+moikich thudc man hinh (Dien thoai->
+hinh de tiet kiem RAM.
+Tablet).
+The Digital
+Philatelist
+NotebookLM
+
+
+===== PAGE 12 =====
+Trai nghiem Tim kiem & Bo loc Nang cao
+Mo hinhhoa Bo loc
+SearchFilter(query.priceRange
+Boloc (Filters)
+categories)-Cac doiturongbo loc
+bat bien (immutable).
+Nam (Year)
+Truoc1950
+1950-2000
+Sau 2000
+Debouncing Input
+Menhgia (Denomination)
+Tri hoanthao tac go 200-400ms de
+<1.000d
+1.000d-10.000d
+>10.000d
+tranh goi ham lien tuc,huy cac yeu
+cau cui de dam bao Ul murot ma.
+Tinh trang (Condition)
+Chua sir dung (Mint)
+Da sudung(Used)
+Trang thai Toi uu
+(OptimisticUl)
+Cap nhat Ulngay lap turc khi toggle bo
+loc,kethop loading spinnertinhte
+thay vi chan toan bo man hinh.
+The Digital
+Philatelist
+NotebookLM
+
+
+===== PAGE 13 =====
+Comparison Matrix: Logic Loc Dur lieu (In-Memory vs. Remote)
+Loc In-Memory (Bo nho cuc bo)
+Loc Remote(Server-side APl)
+Toc do:
+Toc do:
+Phan hoiturc thi,cuon murot 6ofps.
+Phu thuoc mang,can debounce &
+loadingstates.
+Tinh huong sir dung:
+Tinh huong sir dung:
+Tot nhat choTab3(Bosurutap ca
+TotnhatchoTab1&Tab2khi tim
+nhan),tim kiem trong cac danh sach
+kiem trong kho dur lieu toan cau cua
+da tai.
+UPU/WNS.
+Xurly:
+Xurly:
+Rat hieu qua khi sir dung List.where
+Truyen doi turong Filter thanh Query
+ket hop GridView.Doi hoi Isolate neu
+Parameters goi ve Backend.
+du lieu qua khong lo.
+The Digital
+Philatelist
+NotebookLM
+
+
+===== PAGE 14 =====
+Synthesis: Mang luroi Dur lieu Cot loi
+Collector
+Chura dur lieu nguroi dung
+(LienketvoiTab3).
+Collection
+Tap hop nhieu tem, luru trur trang thai
+hien thi, gia tri uroc tinh (current_value).
+Surluan chuyen:Cach
+SearchFiltertruy vanvao
+Collection,vacachTab2
+day dur lieu mdi vao Item.
+Piece/Item
+Du lieu chi tiet cua tirng contem
+(Nam,Quocgia,Menhgia,status_id)
+The Digital
+Philatelist
+ NotebookLM
+
+
+===== PAGE 15 =====
+Tuong lai cua Tem thu Ky thuat so
+Surc manh ket xuat cua Flutter bien cac
+thong so toan hoc kho khan thanh nhung
+vat pham ky thuat so tuyet dep.
+Kientruc3-Tab toiuruhoa hanh trinh
+NFT
+nguroi dung:turkham pha toan cau, che
+tac doc ban, den luru trir ca nhan hoa.
+CCCLAIOONON
+Chung ta khong chi xay durng mot urng
+dung; chung ta dang tai dinh nghia Ban
+lamvieccua NhaSurutamchotheky21
+The Digital
+Philatelist
+SNotebookLM

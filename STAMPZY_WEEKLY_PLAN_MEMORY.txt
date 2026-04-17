@@ -1,0 +1,84 @@
+﻿STAMPZY_WEEKLY_PLAN_MEMORY
+Last updated: 2026-04-15
+Owner: IT_THIEN + Codex
+
+Goal
+- Build Stampzy with Clean Architecture + SOLID.
+- Core stack: flutter_bloc (Cubit), SQLite (sqflite), Dio (API-ready), Source Sans Pro font.
+- Local-first development, remote integration staged later.
+
+Weekly Plan (Current Baseline)
+
+Week 1 - Foundation and Architecture
+- Set up Clean Architecture modules: app, core, features(home/capture/collection).
+- Apply SOLID boundaries:
+  - presentation -> domain -> data.
+  - Domain has only entities/repositories/usecases, no Flutter/sqflite/dio import.
+- Configure Cubit state management for AppTab, Home, Capture, Collection.
+- Configure SQLite:
+  - Tables: collectors, collections, stamps.
+  - Migration entrypoint with onCreate/onUpgrade.
+  - Indexes for year/country/condition.
+- Configure Dio client as remote-ready layer (even if currently unused).
+- Configure global theme and typography with Source Sans Pro.
+- Deliverable:
+  - App boots with 3 tabs.
+  - Local DB read/write works with demo data.
+  - Collection filter baseline works.
+
+Week 2 - Home Feature Completion
+- Build Home feed sections:
+  - New releases.
+  - Trending collections.
+  - UPU/WNS updates.
+- Add loading/error/empty states.
+- Keep local-first data source with optional remote fallback interface.
+- Improve list performance with lazy loading and lightweight cards.
+- Deliverable:
+  - Home is demo-complete and stable for review.
+
+Week 3-4 - Capture Flow
+- Implement capture flow scaffold and state machine in CaptureCubit.
+- Integrate camera flow (phase-in).
+- Save captured stamp metadata + image path to local SQLite.
+- Add basic stamp creator output path (local only).
+- Deliverable:
+  - User can create a stamp record from capture flow and see it in collection.
+
+Week 5 - Collection Advanced UX
+- Upgrade collection browsing:
+  - Grid/list detail experience.
+  - Record screen (StampzyCollectionRecord style).
+- Add advanced local filters/search/sort:
+  - query, year range, condition, nft flag.
+- Keep optimistic UI behavior for filter interactions.
+- Deliverable:
+  - Collection tab is production-shaped for MVP local mode.
+
+Week 6 - Quality and Performance
+- Optimize rendering and scroll smoothness.
+- Add/expand tests:
+  - Repository tests.
+  - Cubit tests.
+  - Critical widget tests.
+- UX polish and accessibility pass (contrast, tap targets, readability).
+- Deliverable:
+  - MVP candidate build quality.
+
+Week 7-8 (Optional Expansion)
+- Cloud sync strategy.
+- Real API wiring through Dio for selected modules.
+- AI matching/NFT metadata roadmap implementation.
+- Deliverable:
+  - Post-MVP enhancement branch.
+
+Change Policy
+- This file is the single source of truth for planning memory in this workspace.
+- If user updates timeline/scope/priority, update this file immediately.
+- Keep previous assumptions explicit and replace only what user confirms.
+
+Open Decisions (Editable)
+- Preferred local DB toolkit long-term: sqflite vs drift.
+- Camera/processing package choices for Capture phase.
+- Scope of remote APIs for Home phase.
+- NFT scope level for MVP vs post-MVP.
